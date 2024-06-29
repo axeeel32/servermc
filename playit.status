@@ -1,4127 +1,1362 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719622489174 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719624555200 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622492231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624558279 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622495276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624561383 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622498381 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624564456 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622501567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624567506 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622504617 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624570555 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622507655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624573666 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622510708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624576738 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622513760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624579776 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622516806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624582811 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622519914 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624585845 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622522949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624588892 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622526045 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624591937 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622529108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624594995 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622532141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624598055 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622535249 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624601225 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622538301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624604281 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622541410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624607335 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622544478 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624610385 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622547572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624613419 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622550610 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624616465 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622553660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624619526 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622556736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624622584 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622559809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624625652 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622562865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624628732 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622565943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624631790 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622569030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624634835 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622572066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624637879 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622575102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624640920 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622578138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624643962 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622581197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624646992 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622584245 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624650071 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622587297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624653150 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622590380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624656199 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622593438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624659269 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622596483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624662317 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622599543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624665396 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622602621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624668466 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622605658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624671500 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622608692 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624674560 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622611742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624677634 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622614810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624680674 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622617859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624683721 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622620909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624686777 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622623953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624689864 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622627092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624692925 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622630137 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624695989 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622633196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624699022 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622636288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624702071 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622639343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624705134 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622642406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624708185 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622645461 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624711238 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622648527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624714289 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622651579 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624717348 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622654646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624720495 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622657720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624723529 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622660774 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624726583 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622663822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624729624 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622666866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624732675 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622669905 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624735797 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622672945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624738851 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622676117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624741919 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622679166 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624745015 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622682251 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624748090 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622685334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624751137 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622688382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624754238 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622691430 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624757296 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622694509 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624760344 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622697595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624763390 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622700651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624766438 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622703738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624769480 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622706775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624772529 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622709833 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624775589 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622712898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624778625 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622715984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624781686 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622719051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624784740 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622722136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624787818 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622725195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624790924 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622728236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624793993 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622731281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624797027 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622734328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624800075 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622737459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624803112 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622740510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624806152 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622743574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624809246 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622746625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624812344 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622749732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624815418 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622752791 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624818472 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622755884 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624821518 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622758937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624824570 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622761984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624827602 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622765021 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624830658 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622768057 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624833756 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622771090 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624836848 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622774154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624839903 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622777244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624842954 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622780310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624846005 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622783372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624849059 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622786430 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624852117 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622789485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624855171 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622792544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624858243 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622795588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624861323 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622798674 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624864398 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622801829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624867442 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622804880 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624870496 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622807990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624873553 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622811081 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624876601 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622814144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624879648 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622817224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624882723 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622820273 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624885779 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622823314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624888824 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622826364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624891892 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622829415 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624894936 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622832503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624897971 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622835559 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624901039 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622838600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624904148 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622841652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624907208 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622844766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624910281 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622847818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624913331 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622850867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624916376 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622854010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624919410 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622857086 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624922475 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622860136 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624925530 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622863215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624928573 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622866290 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624931632 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622869328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624934696 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622872362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624937744 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622875447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624940782 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622878529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624943823 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622881592 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624946857 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622884642 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624949923 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622887691 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624953034 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622890748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624956090 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622893817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624959132 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622896873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624962200 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622899921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624965259 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622902958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624968314 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622906033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624971394 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622909069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624974446 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622912125 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624977514 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622915186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624980563 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622918221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624983612 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622921259 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624986650 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622924372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624989687 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622927419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624992737 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622930467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624995794 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622933526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719624998866 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622936588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625001942 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622939624 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625004996 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622942658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625008054 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622945708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625011086 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622948839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625014119 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622951886 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625017162 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622954934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625020197 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622957984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625023292 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622961039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625026374 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622964144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625029416 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622967209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625032458 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622970252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625035523 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622973325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625038593 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622976445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625041657 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622979485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625044690 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622982601 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625047751 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622985659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625050802 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622988711 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625053862 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622991761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625056915 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622994858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625059950 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719622997942 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625062987 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623000984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625066042 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623004020 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625069127 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623007055 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625072192 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623010102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625075254 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623013179 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625078291 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623016263 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625081348 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623019391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625084407 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623022437 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625087454 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623025498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625090511 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623028563 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625093606 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623031610 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625096678 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623034667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625099729 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623037714 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625102765 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623040772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625105801 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623043882 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625108845 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623046951 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625111891 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623050004 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625114981 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623053101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625118048 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623056165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625121121 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623059271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625124171 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623062343 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625127223 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623065440 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625130278 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623068474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625133331 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623071533 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625136396 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623074592 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625139507 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623077655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625142748 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623080718 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625145865 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623083764 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623086800 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623089892 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623092941 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623096024 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623099057 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623102106 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623105144 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623108208 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623111280 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623114349 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623117479 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623120539 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623123584 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623126627 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623129663 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623132724 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623135778 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623138835 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623141884 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623144933 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623147978 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623151055 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623154103 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623157141 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623160179 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623163249 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623166308 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623169372 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623172412 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623175469 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623178505 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623181582 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623184672 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623187731 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623190772 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623193829 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623196877 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623199926 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623202957 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623206055 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623209114 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623212166 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623215239 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623218280 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623221322 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623224374 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623227479 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623230543 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623233583 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623236630 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623239677 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623242737 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623245781 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623248846 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623251948 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623254984 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623258052 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623261115 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623264182 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623267238 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623270292 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623273362 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623276415 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623279468 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623282519 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623285564 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623288623 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623291676 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623294728 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623297835 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623300913 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623304011 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623307068 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623310167 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623313223 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623316266 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623319297 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623322345 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623325397 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623328472 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623331517 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623334630 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623337671 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623340746 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623343793 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623346879 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623349930 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623352985 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623356034 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623359084 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623362136 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623365191 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623368263 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623371320 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623374374 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623377444 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623380493 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623383543 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623386591 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623389657 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623392727 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623395805 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623398852 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623401955 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623405006 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623408062 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623411128 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623414187 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623417284 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623420324 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623423363 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623426427 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623429485 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623432572 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623435631 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623438701 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623441744 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623444781 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623447821 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623450872 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623453913 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623456974 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623460128 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623463173 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623466378 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623469411 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623472521 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623475578 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623478626 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623481678 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623484772 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623487829 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623490876 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623493928 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623496986 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623500103 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623503155 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623506220 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623509272 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623512307 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623515344 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623518398 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623521469 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623524552 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623527604 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623530687 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623533751 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623536812 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623539853 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623542896 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623545934 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623548980 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623552058 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623555207 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623558240 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623561331 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623564402 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623567498 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623570535 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623573570 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623576622 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623579685 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623582778 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623585834 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623588892 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623591926 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623594957 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623597997 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623601266 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623604327 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623607400 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623610450 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623613501 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623616580 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623619668 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623622730 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623625791 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623628845 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623631915 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623634970 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623638041 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623641135 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623644179 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623647257 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623650328 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623653418 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623656465 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623659518 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623662571 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623665624 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623668675 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623671726 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623674807 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623677842 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623680886 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623683919 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623686962 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623689992 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623693023 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623696059 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623699104 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623702158 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623705206 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623708241 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623711279 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623714377 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623717455 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623720488 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623723532 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623726604 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623729635 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623732692 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623735798 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623738839 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623741883 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623744960 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623748019 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623751053 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623754085 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623757160 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623760207 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623763249 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623766292 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623769342 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623772424 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623775455 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623778495 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623781530 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623784578 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623787632 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623790711 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623793761 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623796860 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623799912 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623802965 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623806019 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623809066 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623812173 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623815236 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623818289 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623821329 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623824389 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623827453 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623830489 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623833527 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623836579 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623839625 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623842727 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623845830 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623848887 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623851973 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623855018 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623858117 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623861163 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623864224 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623867260 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623870315 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623873354 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623876399 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623879444 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623882536 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623885672 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623888725 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623891760 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623894792 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623897838 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623900884 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623903967 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623907037 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623910100 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623913167 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623916236 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623919286 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623922324 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623925381 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623928461 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623931505 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623934548 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623937605 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623940695 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623943753 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623946821 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623949872 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623952924 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623955972 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623959018 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623962072 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623965113 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623968142 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623971193 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623974256 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623977345 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623980389 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623983422 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623986457 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623989505 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623992545 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623995595 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719623998677 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624001787 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624004857 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624007920 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624010979 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624014014 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624017054 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624020128 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624023224 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624026324 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624029414 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624032472 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624035518 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624038634 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624041717 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624044779 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624047895 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624050949 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624054007 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624057055 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624060106 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624063150 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624066196 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624069241 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624072328 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624075380 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624078432 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624081479 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624084531 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624087578 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624090642 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624093697 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624096747 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624099803 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624102852 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624105933 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624108971 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624112030 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624115122 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624118196 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624121278 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624124327 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624127405 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624130469 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624133530 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624136578 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624139654 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624142724 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624145785 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624148838 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624151893 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624154943 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624158017 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624161070 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624164108 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624167173 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624170228 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624173284 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624176318 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624179371 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624182453 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624185524 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624188588 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624191657 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624194690 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624197740 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624200777 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624203817 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624206860 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624209896 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624212942 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624216037 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624219073 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624222128 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624225181 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624228289 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624231332 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624234365 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624237404 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624240464 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624243512 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624246550 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624249637 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624252692 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624255750 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624258841 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624261879 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624264937 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624267976 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624271011 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624274054 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624277133 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624280219 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624283291 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624286328 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624289381 tunnel running, 2 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-jobs-strap.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-lower-earthquake.gl.at.ply.gg:3065 => 127.0.0.1:3065 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719624292436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719625148926 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
